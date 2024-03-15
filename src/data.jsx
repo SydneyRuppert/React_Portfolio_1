@@ -60,62 +60,62 @@ import {
   export const personalInfo = [
     {
       id: 1,
-      title: 'First Name : ',
-      description: 'Steve',
+      title: 'First Name :',
+      description: 'Sydney',
     },
   
     {
       id: 2,
       title: 'Last Name : ',
-      description: 'Milner',
+      description: 'Ruppert',
     },
   
     {
       id: 3,
       title: 'Age : ',
-      description: '27 Years',
+      description: '26 Years',
     },
   
     {
       id: 4,
       title: 'Nationality : ',
-      description: 'Tunisian',
+      description: 'American',
     },
   
     {
       id: 5,
-      title: 'Freelance : ',
-      description: 'Available',
+      title: 'Open to : ',
+      description: 'Internships, Full-time, Part-time',
     },
   
     {
       id: 6,
       title: 'Address : ',
-      description: 'Tunis',
+      description: 'St. Louis',
     },
   
     {
       id: 7,
       title: 'Phone : ',
-      description: '+21621184010',
+      description: '+1949-235-9049',
     },
   
     {
       id: 8,
       title: 'Email : ',
-      description: 'you@mail.com',
+      description: 'sydneyruppert@outlook.com',
     },
   
     {
       id: 9,
-      title: 'Skype : ',
-      description: 'steve.milner',
+      title: 'LinkedIn : ',
+      description: 'http://www.linkedin.com/in/sydney-ruppert-RadiatePositivity',
     },
   
     {
       id: 10,
-      title: 'Langages : ',
-      description: 'French, English',
+      title: 'Github : ',
+      description: 'https://github.com/SydneyRuppert',
     },
   ];
   
@@ -458,7 +458,7 @@ import {
       id: 7,
       img: Theme7,
       color: 'hsl(80, 61%, 50%)',
-    },6pageXOffset, 4px
+    },
   
     {
       id: 8,
