@@ -1,8 +1,8 @@
-import React from 'react'
-import Profile from "../../assets/home.jpg"
+import React from 'react';
+import Profile from "../../assets/home.jpg";
 import { Link } from 'react-router-dom';
 import { FaArrowRight} from "react-icons/fa6";
-import "./home.css"
+import "./home.css";
 
 const Home = () => {
   return (

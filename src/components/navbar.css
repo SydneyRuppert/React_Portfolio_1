@@ -6,6 +6,7 @@
     width:100%;
     padding: 60px 30px;
     transition: all 0.5s cubic-beizer(.077, 0.2, 0.05, 1);
+    z-index: 100;
 }
 .show-menu{
     left: 0;
@@ -45,6 +46,7 @@
     border-radius: 5px;
     background-color: var(--container-color);
     padding: 12px 10px;
+    z-index: 100;
 }
 
 .nav__toggle span{
